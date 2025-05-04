@@ -21,8 +21,6 @@ This table is typically part of an HR or organizational database structure where
 **location_id INT:**
         Optional column to store the location ID of the department.
 
-
-![Image-1](https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG)
-<p align="center">
-  <img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-3.JPG" alt="Histogram with Hue" width="600"/>
+<p align="Left">
+  <img src="https://github.com/jahangirmayed1990/Departments_SQL_Database/blob/main/Department_SQL.JPG" alt="Department_SQL" width="600"/>
 </p>
